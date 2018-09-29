@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\WorkSpace\\Beauty\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw800dp-v13\\values-sw800dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\WorkSpace\\Beauty\\app\\src\\main\\res\\values-sw800dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "54,111,170,216,278,319,362,406,450,493,538",
+                        "endColumns": "55,57,44,60,39,41,42,42,41,43,44",
+                        "endOffsets": "108,167,213,275,316,359,403,447,490,535,581"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,175,223,287,330,375,421,467,512,559",
+                        "endColumns": "58,60,47,63,42,44,45,45,44,46,47",
+                        "endOffsets": "109,170,218,282,325,370,416,462,507,554,602"
+                    }
+                }
+            ]
+        }
+    ]
+}

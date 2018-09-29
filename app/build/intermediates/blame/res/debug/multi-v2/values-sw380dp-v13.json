@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\WorkSpace\\Beauty\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw380dp-v13\\values-sw380dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\WorkSpace\\Beauty\\app\\src\\main\\res\\values-sw380dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "54,111,169,214,275,316,359,403,447,490,535",
+                        "endColumns": "55,56,43,59,39,41,42,42,41,43,44",
+                        "endOffsets": "108,166,211,272,313,356,400,444,487,532,578"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,174,221,284,327,372,418,464,509,556",
+                        "endColumns": "58,59,46,62,42,44,45,45,44,46,47",
+                        "endOffsets": "109,169,216,279,322,367,413,459,504,551,599"
+                    }
+                }
+            ]
+        }
+    ]
+}

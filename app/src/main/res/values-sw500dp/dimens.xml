@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="base_activity_iv_back_wh">48.00dp</dimen>
+	<dimen name="base_activity_title_bar_h">80.00dp</dimen>
+	<dimen name="common_margin">10.00dp</dimen>
+	<dimen name="home_activity_bottom_group_h">86.67dp</dimen>
+	<dimen name="size_big">26.67dp</dimen>
+	<dimen name="size_big_x">30.00dp</dimen>
+	<dimen name="size_big_xx">33.33dp</dimen>
+	<dimen name="size_normal">23.33dp</dimen>
+	<dimen name="size_small">23.33dp</dimen>
+	<dimen name="size_small_x">20.00dp</dimen>
+	<dimen name="size_small_xx">16.67dp</dimen>
+</resources>

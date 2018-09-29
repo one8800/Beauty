@@ -1,0 +1,7 @@
+Android Studio 提供的UI调试工具:hierarchy viewer
+
+Android Studio 提供的代码扫码分析工具:Lint
+相关CSDN:https://blog.csdn.net/u011240877/article/details/54141714
+
+Android 4.1以上版本提供的性能数据采样和分析工具:Systrace
+工具使用介绍相关CSDN:http://gityuan.com/2016/01/17/systrace/

@@ -1,0 +1,4 @@
+#Wed Mar 14 17:43:08 CST 2018
+base.0=C\:\\WorkSpace\\Beauty\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

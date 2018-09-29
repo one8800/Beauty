@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--TextSize-->
+    <dimen name="size_big_xx">50dp</dimen>
+    <dimen name="size_big_x">45dp</dimen>
+    <dimen name="size_big">40dp</dimen>
+    <dimen name="size_normal">35dp</dimen>
+    <dimen name="size_small">35dp</dimen>
+    <dimen name="size_small_x">30dp</dimen>
+    <dimen name="size_small_xx">25dp</dimen>
+
+
+    <!--Common-->
+    <dimen name="common_margin">15dp</dimen>
+
+
+    <!--BaseActivity-->
+    <dimen name="base_activity_title_bar_h">120dp</dimen>
+    <dimen name="base_activity_iv_back_wh">72dp</dimen>
+
+
+    <!--MainActivity-->
+    <dimen name="home_activity_bottom_group_h">130dp</dimen>
+    <dimen name="home_tv_case_number_title_left">28dp</dimen>
+    <dimen name="home_tv_case_number_left">28dp</dimen>
+    <dimen name="home_tv_survey_record_right">28dp</dimen>
+    <dimen name="home_tv_address_bottom">10dp</dimen>
+    <dimen name="home_tv_address_top">20dp</dimen>
+    <dimen name="home_tv_message_input_top">10dp</dimen>
+    <dimen name="home_line_horizontal_top">30dp</dimen>
+    <dimen name="home_text_clock_top">30dp</dimen>
+    <dimen name="home_ll_location_address_top">15dp</dimen>
+    <dimen name="home_tv_location_address_left">5dp</dimen>
+    <dimen name="home_ll_work_sign_in_top">20dp</dimen>
+    <dimen name="home_tv_work_sign_in_top">20dp</dimen>
+    <dimen name="home_work_sign_in_bg_width">364dp</dimen>
+    <dimen name="home_work_sign_in_bg_height">157dp</dimen>
+    <dimen name="home_sign_in_width">36dp</dimen>
+    <dimen name="home_sign_in_height">38dp</dimen>
+    <dimen name="home_msg_input_width">466dp</dimen>
+    <dimen name="home_msg_input_height">472dp</dimen>
+    <dimen name="home_dialog_sign_in_width">506dp</dimen>
+    <dimen name="home_dialog_sign_in_height">254dp</dimen>
+    <dimen name="home_dialog_bt_width">232dp</dimen>
+    <dimen name="home_dialog_bt_height">64dp</dimen>
+    <dimen name="home_dialog_bt_margin_bottom">30dp</dimen>
+    <dimen name="home_dialog_title_margin">30dp</dimen>
+
+
+</resources>
